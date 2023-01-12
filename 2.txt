@@ -1,0 +1,4 @@
+commit版本1
+staged版本2
+working directort版本3
+test版本4
